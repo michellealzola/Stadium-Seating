@@ -236,7 +236,7 @@
             // btnCalculateRevenue
             // 
             this.btnCalculateRevenue.Font = new System.Drawing.Font("NanumGothicCoding", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnCalculateRevenue.Location = new System.Drawing.Point(189, 310);
+            this.btnCalculateRevenue.Location = new System.Drawing.Point(178, 310);
             this.btnCalculateRevenue.Name = "btnCalculateRevenue";
             this.btnCalculateRevenue.Size = new System.Drawing.Size(110, 59);
             this.btnCalculateRevenue.TabIndex = 4;
@@ -258,7 +258,7 @@
             // btnExit
             // 
             this.btnExit.Font = new System.Drawing.Font("NanumGothicCoding", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnExit.Location = new System.Drawing.Point(465, 310);
+            this.btnExit.Location = new System.Drawing.Point(472, 310);
             this.btnExit.Name = "btnExit";
             this.btnExit.Size = new System.Drawing.Size(110, 59);
             this.btnExit.TabIndex = 6;
